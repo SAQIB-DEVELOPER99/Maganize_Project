@@ -43,7 +43,5 @@ The CSS file includes styles for the following elements:
 1. Clone the repository or download the project files.
 2. Open `index.html` in your web browser to view the magazine page.
 
-## License
 
-This project is open-source and available under the MIT License.
 
